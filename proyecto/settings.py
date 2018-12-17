@@ -24,7 +24,7 @@ SECRET_KEY = 'ksh4$47bzdjc06x4hw30(==#gn2rdxu&rk#@2rx7c_x*wa1s)i'
 DEBUG = True
 
 
-ALLOWED_HOSTS = [u'shielded-garden-13483.com',u'localhost',u'127.0.0.1']
+ALLOWED_HOSTS = [u'shielded-garden-13483.herokuapp.com',u'localhost',u'127.0.0.1']
 
 
 # Application definition
