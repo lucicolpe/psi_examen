@@ -21,7 +21,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ksh4$47bzdjc06x4hw30(==#gn2rdxu&rk#@2rx7c_x*wa1s)i'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
 ALLOWED_HOSTS = [u'shielded-garden-13483.herokuapp.com',u'localhost',u'127.0.0.1']
